@@ -62,7 +62,7 @@ int main()
     //     cout<<ans[i]<<endl;
     // }
 
-    // Optimal-02
+    // Optimal-02....TC->O(n)....SC->O(1)
     vector<int> nums = {1, 2, 3, 4};
     int n = nums.size();
     vector<int> ans(n, 1);
